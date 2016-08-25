@@ -1,0 +1,52 @@
+#infocont
+{
+    width: 400px;
+    padding-top: 50px;
+    position: relative;
+    /*border: solid;*/
+    margin-left: 20%;
+}
+#formulario
+{
+    width: 500px;
+    padding-top: 50px;
+    position: absolute;
+    /*border: solid;*/
+    margin-left: 0px;
+}
+#imgcontacto{
+    
+    position: absolute;
+	padding-top: 0px;
+	margin-left: 20%;
+    /*border: solid;*/
+}
+#tblcontacto td
+{
+    padding-top: 10px;
+    font-size: 18px;
+    width: 30%;
+}
+#group1
+{
+     background: rgb(181,159,39);
+background: -moz-linear-gradient(-45deg,  rgba(181,159,39,1) 1%, rgba(198,195,177,1) 100%);
+background: -webkit-linear-gradient(-45deg,  rgba(181,159,39,1) 1%,rgba(198,195,177,1) 100%);
+background: linear-gradient(135deg,  rgba(181,159,39,1) 1%,rgba(198,195,177,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b59f27', endColorstr='#c6c3b1',GradientType=1 );
+
+   
+   /*border: solid;*/
+ height: 700px;
+	background-attachment:fixed;
+	position:relative;
+	width:100%;
+	margin-right:auto;
+	margin-left:auto;
+}
+#encabcon
+{
+    margin-left: 10%;
+    text-align: center;
+    width: 80%;
+}
