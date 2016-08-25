@@ -1,0 +1,48 @@
+body{
+	background: #1C1C1C;
+}
+
+#intro1{
+	background-image: url(http://www.ok-studios.de/fileadmin/templates/okstudios/images/design_bg.jpg);
+	background-repeat:no-repeat;
+	background-position:center-top;
+	height: 660px;
+	background-attachment:fixed;
+	position:relative;
+	width:100%;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+h2{
+	color:white;
+	opacity: 0.89;
+}
+
+
+.well{
+	background: black;
+	height: 220px;
+	width:56%;
+}
+
+.Mision{
+	
+	/*background: #424153;*/
+	color:white;
+	opacity: 0.89;
+}
+
+.Vision{
+	
+	/*background: #424153;*/
+	color:white;
+	opacity: 0.89;
+}
+
+.Letra{
+	
+	/*background: #424153;*/
+	color: white;
+	opacity: 0.89;
+}
