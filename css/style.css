@@ -1,0 +1,38 @@
+.myFooter
+{
+  width: 100%;
+  height: 300px;
+  background: #33FFBB;
+  position: relative;
+}
+
+.myFooter > .row >.col-md-5 > a
+{
+  	text-align: center;
+    line-height: 300px;
+    color:  #00796b;
+    text-decoration: none;
+}
+
+.myFooter > .row >.col-md-5 >a:hover
+{
+    color:  #004d40;
+    text-decoration: none;
+}
+.myFooter > .row >.col-md-6> .col-md-3 > .nav
+{
+  margin-top: 110px;
+}
+.myFooter > .row 
+{
+  background: #33FFBB;
+}
+.myFooter > .row > .col-md-12>.nav>li>a:hover
+{
+  background: #33FFBB;
+}
+.myFooter > .row >.col-md-6> .col-md-3 > .nav > li> a:hover
+{
+  background-color:  #004d40;
+  color: #fff;
+}
